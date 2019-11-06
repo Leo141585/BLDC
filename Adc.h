@@ -1,6 +1,6 @@
 #ifndef ADC_H
 #define ADC_H
-
+//ww
 // <<< Use Configuration Wizard in Context Menu >>>
 // <h> ADCCONT °t¸m
 // <o.0..2> ADCCH <0=> CH0 <1=> CH1 <2=> CH2 <3=> CH3 <4=> CH4 <5=> CH5 <6=> CH6 <7=> CH7 
